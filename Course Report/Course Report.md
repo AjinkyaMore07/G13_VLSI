@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: [Rahul]
 
-## Qualifications: [Your Qualifications]
+## Qualifications: [M.tech in ECE from NIT Hamirpur]
 
-Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [VLSI Frontend]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Projects: [FSM,ADDERS,MULTIPLEXERS,PAD CELL,FLIP-FLOPS,MEMORIES]     | [Project Link]                         |
+| Final Project: [JTAG Protocol implementation - IEEE standard]     | [Project Link]                         |
